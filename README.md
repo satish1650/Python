@@ -1,1 +1,1 @@
-Full Python Course
+Full Python Programming Language
